@@ -23,6 +23,7 @@ you through the process.
 .. _Python installation guide: http://docs.python-guide.org/en/latest/starting/installation/
 
 
+
 From sources
 ------------
 
@@ -49,3 +50,4 @@ Once you have a copy of the source, you can install it with:
 
 .. _Github repo: https://github.com/hbienn/geo_cop
 .. _tarball: https://github.com/hbienn/geo_cop/tarball/master
+
